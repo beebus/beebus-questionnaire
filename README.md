@@ -22,7 +22,7 @@ pip install -r requirements.txt
 **3. Apply database migrations**
 
 ```powershell
-cd beebus_questionnaire
+cd backend
 python manage.py migrate
 ```
 
